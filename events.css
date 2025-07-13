@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+nav {
+  margin-left: 40px;
+  width: 1440px;
+  margin-bottom: 0px;
+  vertical-align: middle;
+  display: flex;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  vertical-align: middle;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+header {
+    margin-bottom: -60px;
+}
+#home {
+    margin-right: 300px;
+}
+button {
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 18px 32px;
+    background-color: #000000;
+    border:#FFFA95 solid 2px;
+}
+svg {
+    margin-left: 188px;
+    margin-right: 200px;
+    width: 62px;
+    height: 62px;
+    padding: 32px;
+    background-color: #FFFA95;
+}
+.about {
+  margin-right: 26px;
+}
+.dalone {
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: 60px;
+ font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+}
+section {
+  text-align: center;
+}
+img {
+    max-height: 1000px;
+    text-align: center;
+    padding: 40px;
+}
