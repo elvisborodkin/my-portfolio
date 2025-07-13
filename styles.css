@@ -62,6 +62,9 @@ section {
   margin-bottom: 16px; /* можно любое значение — 20px, 32px и т.д. */
   display: flex;
 }
+.folder-list li:hover {
+  color: grey;
+}
 .folder {
   font-size: 38px;
   color: white;
