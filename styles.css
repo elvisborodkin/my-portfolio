@@ -63,7 +63,7 @@ section {
   display: flex;
 }
 .folder-list li:hover {
-  color: grey;
+  color: red;
 }
 .folder {
   font-size: 38px;
